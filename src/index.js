@@ -2,10 +2,9 @@ import Didact from "../modules/didact";
 
 /** @jsx Didact.createElement */
 const element = (
-  <div id="foo">
-    <h1>Hello Adnan</h1>
-    <a>bar</a>
-    <p>This is a paragraph</p>
+  <div id="foo" style="background: salmon">
+    <h1>Hello there!</h1>
+    <p style="text-align:right">- By Adnan</p>
   </div>
 );
 
